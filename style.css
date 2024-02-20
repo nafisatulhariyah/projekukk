@@ -1,39 +1,26 @@
 .banner{
-    background: url("https://www.sekolah.mu/blog/wp-content/uploads/2022/07/19-1-binaracademy-com.jpg") no-repeat center center;
+    background: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg") no-repeat center center;
      background-size: cover;
      width: 100vw;
      padding-top: 20%;
      padding-bottom: 20%;
      margin: 0;
      color:#fff;
-
+}
+.countdown-cont {
+    background: linear-gradient(45deg, #149dcc, #e4d295);
 }
 #border{
     font-family: 'rubik','serif';
     width: 700px;
-    
-}
-.countdown-cont {
-    background: linear-gradient(45deg, #149dcc, #e4d295);
-    max-width: 700;
-    border-radius: 3px;
 }
 
-#title{
-    font-weight: bold;
-    font-family: 'rubik','sans-serif';
-    font-style: normal;;
-    
-}
-.iconsddd{
-    display: flex;
-    justify-content: space-evenly;
-}
-.list-lomba{
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.list-inline{
-    display: flex;
+.about{
+    background: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg") no-repeat center center;
+     background-size: cover;
+     width: 100vw;
+     padding-top: 20%;
+     padding-bottom: 20%;
+     margin: 0;
+       
 }
